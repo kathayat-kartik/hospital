@@ -1,0 +1,12 @@
+cough,General Physician
+cold,General Physician
+fever,General Physician
+sore throat,General Physician
+fracture,Orthopedic
+joint pain,Orthopedic
+chest pain,Cardiologist
+heart pain,Cardiologist
+rashes,Dermatologist
+allergy,Dermatologist
+stomach pain,Gastroenterologist
+food poisoning,Gastroenterologist

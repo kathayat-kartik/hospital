@@ -1,0 +1,30 @@
+1|Dr. Aditi Sharma|General Physician|1|3
+2|Dr. Rajesh Mehta|General Physician|1|3
+3|Dr. Sneha Kapoor|General Physician|1|3
+4|Dr. Nikhil Sinha|General Physician|1|3
+5|Dr. Priya Nair|General Physician|1|0
+6|Dr. Arun Verma|Cardiologist|1|0
+7|Dr. Simran Kaur|Cardiologist|1|0
+8|Dr. Manoj Gupta|Cardiologist|1|0
+9|Dr. Alok Tiwari|Cardiologist|1|0
+10|Dr. Riya Malhotra|Cardiologist|1|0
+11|Dr. Kavita Reddy|Orthopedic|1|0
+12|Dr. Rohit Das|Orthopedic|1|0
+13|Dr. Meenakshi Jain|Orthopedic|1|0
+14|Dr. Ashok Bansal|Orthopedic|1|0
+15|Dr. Neha Joshi|Dermatologist|1|1
+16|Dr. Ramesh Singh|Dermatologist|1|0
+17|Dr. Kritika Rao|Dermatologist|1|0
+18|Dr. Mohit Yadav|Gastroenterologist|1|0
+19|Dr. Vandana Ghosh|Gastroenterologist|1|0
+20|Dr. Abhinav Mishra|Gastroenterologist|0|0
+21|Dr. Asha Iyer|Gastroenterologist|1|0
+22|Dr. Pooja Khanna|Neurologist|1|0
+23|Dr. Suresh Iyer|Neurologist|1|0
+24|Dr. Ajay Sharma|Neurologist|1|0
+25|Dr. Shalini Nair|ENT Specialist|1|0
+26|Dr. Deepak Bhatia|ENT Specialist|1|0
+27|Dr. Rohan Patel|ENT Specialist|1|0
+28|Dr. Tanvi Kaur|Pulmonologist|1|0
+29|Dr. Aditya Rao|Pulmonologist|1|0
+0|||0|0
